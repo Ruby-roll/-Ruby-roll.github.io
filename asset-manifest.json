@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.f3ea6390.css",
-    "main.js": "/static/js/main.3b3a1d5f.js",
+    "main.css": "/static/css/main.2574adff.css",
+    "main.js": "/static/js/main.81d670bb.js",
     "static/js/787.558ff82f.chunk.js": "/static/js/787.558ff82f.chunk.js",
-    "static/media/tower.svg": "/static/media/tower.c948e9fc2c681207af68b0aad301c9ff.svg",
+    "static/media/game-img.svg": "/static/media/game-img.31e796975d2023fa247fa234b4d9c629.svg",
+    "static/media/tower.svg": "/static/media/tower.fabca4a2b091cb46e4c59447a4b7e873.svg",
     "static/media/dice.svg": "/static/media/dice.cbf2052d24e20f4fb74e70a5a1d3cfbe.svg",
     "static/media/mines.svg": "/static/media/mines.5fbc5fab15476d09533af16ad7175112.svg",
     "static/media/live-games.svg": "/static/media/live-games.579b0f463dc120d19a1cb5d36d4026ee.svg",
@@ -105,12 +106,12 @@
     "static/media/x.svg": "/static/media/x.97d12e3209e8995f7e5ebe4ded6792a6.svg",
     "static/media/online.svg": "/static/media/online.ebc045c815b074f3be53.svg",
     "static/media/close-bg.svg": "/static/media/close-bg.d77ca250ea3e9bee651f.svg",
-    "main.f3ea6390.css.map": "/static/css/main.f3ea6390.css.map",
-    "main.3b3a1d5f.js.map": "/static/js/main.3b3a1d5f.js.map",
+    "main.2574adff.css.map": "/static/css/main.2574adff.css.map",
+    "main.81d670bb.js.map": "/static/js/main.81d670bb.js.map",
     "787.558ff82f.chunk.js.map": "/static/js/787.558ff82f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3ea6390.css",
-    "static/js/main.3b3a1d5f.js"
+    "static/css/main.2574adff.css",
+    "static/js/main.81d670bb.js"
   ]
 }
