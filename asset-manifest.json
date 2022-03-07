@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e3e702d2.css",
-    "main.js": "/static/js/main.6602b109.js",
+    "main.css": "/static/css/main.ed2833af.css",
+    "main.js": "/static/js/main.954543ca.js",
     "static/js/787.558ff82f.chunk.js": "/static/js/787.558ff82f.chunk.js",
     "static/media/game-img.svg": "/static/media/game-img.31e796975d2023fa247fa234b4d9c629.svg",
     "static/media/tower.svg": "/static/media/tower.fabca4a2b091cb46e4c59447a4b7e873.svg",
@@ -60,6 +60,7 @@
     "static/media/coin.svg": "/static/media/coin.8fd76cde631c9182760393509ac6c740.svg",
     "static/media/active-chat.svg": "/static/media/active-chat.4d0c83daa1dd9a3a439e98e6595a2793.svg",
     "static/media/chat.svg": "/static/media/chat.ea7bf0f368085d46c8aef1b1cc7044d6.svg",
+    "static/media/favourite-active.svg": "/static/media/favourite-active.059dd98b0c0d28c66f5208643da8b2f4.svg",
     "static/media/favourite.svg": "/static/media/favourite.5bce08fe07b8685b57c5397c1aa62bc2.svg",
     "static/media/roll.svg": "/static/media/roll.ca3f9cbf3910567bf8176bdd60a3b1c4.svg",
     "static/media/mines-active.svg": "/static/media/mines-active.8e6cd49159011e78f5bcbc8afaafbfac.svg",
@@ -108,12 +109,12 @@
     "static/media/x.svg": "/static/media/x.97d12e3209e8995f7e5ebe4ded6792a6.svg",
     "static/media/online.svg": "/static/media/online.ebc045c815b074f3be53.svg",
     "static/media/close-bg.svg": "/static/media/close-bg.d77ca250ea3e9bee651f.svg",
-    "main.e3e702d2.css.map": "/static/css/main.e3e702d2.css.map",
-    "main.6602b109.js.map": "/static/js/main.6602b109.js.map",
+    "main.ed2833af.css.map": "/static/css/main.ed2833af.css.map",
+    "main.954543ca.js.map": "/static/js/main.954543ca.js.map",
     "787.558ff82f.chunk.js.map": "/static/js/787.558ff82f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3e702d2.css",
-    "static/js/main.6602b109.js"
+    "static/css/main.ed2833af.css",
+    "static/js/main.954543ca.js"
   ]
 }
